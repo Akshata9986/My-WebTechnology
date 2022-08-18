@@ -1,0 +1,24 @@
+SELECTORS IN CSS
+
+Simple selector(id,class)
+id-->#
+class-->.
+class does not support number at initial(like variable)--->ex:  .1val
+
+Attribute Selector
+The [attribute] selector is used to select elements with a specified attribute.
+img[alt]-->ex
+
+Universal selector-apply for entire page.
+*{ 
+  background-color:blue;
+}
+
+
+a:hover--->
+
+
+
+
+
+
