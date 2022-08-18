@@ -1,0 +1,25 @@
+1. HTML-Hiper Text Markup Language-Defines about text formats and links.
+
+2. Tag- A Tag is a keyword enclosed within the angular braces.
+
+3. Key difference between:
+   Tag-A Tag is a keyword enclosed within the angular braces,It has opening and closing tab
+   Elements-The data between opening and closing of tag.
+
+4. <table>,<tr> and <td>
+
+5. Attributes- An HTML attribute is a piece of markup language used to adjust the behavior or display of an HTML element.
+   It should be written inside opening tag.
+
+6. Anchor Tag- An anchor is a piece of text which marks the beginning and the end of a hypertext link.
+  <a> </a>
+
+7. List-The list tag is used for specifying an item in a format.
+   Types : 1.Ordered List
+           2.unordered List
+           3.Definition List
+           4.Nested List
+8. Form-The form tag is used to create an HTML form for user input.
+
+9. Semantic Tag - The name of the tag only describes what it does.
+   examples:<form>,<table>,<list>

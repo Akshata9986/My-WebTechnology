@@ -1,0 +1,29 @@
+#div1{
+      background-color: blue;
+      border: 3px solid black;
+      width: 200px;
+      height: 200px;
+      display: flex;
+      padding-right: 30px;
+
+    }
+    #div2{
+        background-color: saddlebrown;
+        border: 3px solid black;
+        width: 100px;
+        height: 100px;
+        float: left;
+        margin-left: 40px;
+        margin-top: 40px;
+        
+      }
+      #div3{
+        background-color: firebrick;
+        border: 3px solid black;
+        width: 80px;
+        height: 80px;
+        float: left;
+        margin-top: 10px;
+        margin-left: 10px;
+        
+      }

@@ -1,0 +1,22 @@
+.d1{
+    width: 300px;
+    height: 300px;
+    border: 2px solid blue;
+    background-color: blueviolet;
+}
+.d2{
+    width: 200px;
+    height: 200px;
+    border:2px solid red;
+    background-color: crimson;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.d21{
+    width: 100px;
+    height: 100px;
+    border: 2px solid lightsalmon;
+    background-color:red;
+    margin-top: 40px;
+    margin-left: 40px;
+}

@@ -1,0 +1,25 @@
+.d1{
+    border-radius: 50%;
+    border: 2px solid lawngreen;
+    background-color: blue;
+    width: 500px;
+    height: 500px;
+}
+.d2{
+    border-radius: 50%;
+    border: 2px solid firebrick;
+    background-color: brown;
+    width: 300px;
+    height: 300px;
+    margin-left: 80px;
+    margin-top: 80px;
+}
+.d3{
+    border-radius: 50%;
+    border: 2px solid lawngreen;
+    background-color: hotpink;
+    width: 100px;
+    height: 100px;
+    margin-left: 90px;
+    margin-top: 70px;
+}

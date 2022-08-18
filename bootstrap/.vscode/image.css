@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+.d22{
+    display: flex;
+    width: auto;
+}
+#d1{
+    float: left;
+    width: 30px;
+    height: 30px;
+    padding: 30px;
+}
+#d2{
+    width: 50px;
+    height: 50px;
+    padding: 30px;
+}
+#d3{
+    width: 50px;
+    height: 50px;
+    padding: 30px;
+}
+#d4{
+    width: 50px;
+    height: 50px;
+    padding: 30px;
+}
